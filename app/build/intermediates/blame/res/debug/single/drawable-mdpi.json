@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\sem301\\VolleyJson\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Android\\sem301\\VolleyJson\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\sem301\\VolleyJson\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notwifi.png",
+        "source": "C:\\Android\\sem301\\VolleyJson\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\notwifi.png"
+    }
+]

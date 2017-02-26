@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_2df38f6308661568e3046d38ecc08e765352b831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_36f78bdf19a3d3f309b6c6816ce50de185afc181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\med melek\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f6cb41216174c7a629993736b8922ecf9aafecfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_db5f5a821d1ba0df14400b3b391e3e2598403e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_e3232aeddd77acd17eb8941421c56899dce543cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_36f78bdf19a3d3f309b6c6816ce50de185afc181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_2df38f6308661568e3046d38ecc08e765352b831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_e3232aeddd77acd17eb8941421c56899dce543cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_52d38493b85eb78eae0413d655a69aebce1940a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_b3421ce8c3977ee7eb59d38743b1fdf57bbf9b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_229487de5a2a6c2cd5f4dcbe6e03f76c6ef4f64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_b3421ce8c3977ee7eb59d38743b1fdf57bbf9b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\med melek\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f6cb41216174c7a629993736b8922ecf9aafecfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_db5f5a821d1ba0df14400b3b391e3e2598403e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_229487de5a2a6c2cd5f4dcbe6e03f76c6ef4f64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_39d83876f402c1df6419d1ca79b3f8b2f3472e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\volley_337836fa364074af6c1fafc2552a8680bc5d7057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\volley_337836fa364074af6c1fafc2552a8680bc5d7057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_39d83876f402c1df6419d1ca79b3f8b2f3472e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_8144f8217f18ee3aca244d7270a54d21b7b8137e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\volley_337836fa364074af6c1fafc2552a8680bc5d7057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c4c6b5c43d3d279f30964bf862e823664e71e85c">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\instant-run_a46e185e49de1f047168c096b86ed22771522e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_8144f8217f18ee3aca244d7270a54d21b7b8137e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\med melek\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f6cb41216174c7a629993736b8922ecf9aafecfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_7bc638ddd055b0fe37753154727a89d99ddf6422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ab0548bce83d5d55bde110c4493de0c0cedf0352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ab0548bce83d5d55bde110c4493de0c0cedf0352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="30cbc7a4d78b1e1d197ad8e610188e6f7bdd48a0">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_82e768e89c9b7b654c9a597916bb32e2c5c55fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_52d38493b85eb78eae0413d655a69aebce1940a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sem301\VolleyJson\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Android\sem301\VolleyJson\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_7bc638ddd055b0fe37753154727a89d99ddf6422.jar" />
+    </item>
+
+</items>
